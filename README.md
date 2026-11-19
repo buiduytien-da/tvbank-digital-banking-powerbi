@@ -22,7 +22,7 @@ Tự xây dựng kịch bản sinh dữ liệu bằng Python (`pandas`, `numpy`)
 ### 2. Dashboard quản trị vận hành (Power BI)
 ![TV Bank Performance Dashboard](./assets/tvbank_dashboard.png)
 
-Rút kinh nghiệm từ các dự án trước, toàn bộ chỉ số cốt lõi được tinh gọn trên **1 trang Dashboard duy nhất** (Executive One-Pager) đi kèm bộ lọc tương tác theo phân khúc, giới tính, nghề nghiệp và ngày trong tuần.
+Toàn bộ chỉ số cốt lõi được tinh gọn trên **1 trang Dashboard duy nhất** (Executive One-Pager) đi kèm bộ lọc tương tác theo phân khúc, giới tính, nghề nghiệp và ngày trong tuần theo như yêu cầu của đề.
 
 ---
 
